@@ -60,7 +60,7 @@ This project is **explained fully in Arabic**, making it one of the few complete
 ## 🙌 Author
 
 **Mustafa Mohamed Alqalfat**  
-Connect with me on [LinkedIn](https://www.linkedin.com/muztafa74) 
+Connect with me on [LinkedIn]([https://www.linkedin.com/muztafa74](https://www.linkedin.com/in/muztafa74/)) 
 
 ---
 
